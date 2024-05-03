@@ -1,0 +1,8 @@
+.map{
+  height: 100vh
+}
+.mapMarker{
+  margin-top: -30px;
+  color: #FFF; 
+  /* color: #FFF !important; */
+}
